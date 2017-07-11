@@ -1,2 +1,2 @@
-Terceira avaliacao de software livre
-Diego Souza e Gabriel henrique silva
+Terceira avaliacao de aplicativos em software livre
+Diego Souza e Gabriel Henrique Silva
